@@ -1,0 +1,28 @@
+.dropdown .dropdown-product {
+    top: 46px;
+    left: -56px;
+}
+
+.category-link {
+    border: none;
+    text-decoration: none;
+}
+
+.category-link:hover {
+    text-decoration: underline black;
+    color: black;
+}
+
+.utilities {
+    width: 40px;
+    height: 40px;
+}
+
+.icon i {
+    font-size: 40px;
+    margin: 10px;
+}
+
+.footer {
+    background-color: #f2f2f2;
+}
